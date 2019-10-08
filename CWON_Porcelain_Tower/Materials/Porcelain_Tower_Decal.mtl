@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..MaterialInstance>
+    <m_CookParams>
+        <m_Values>
+            <Element class="AssetObjects..ObjectValue">
+                <m_ObjectName text="porcelain_tower_decal_512"/>
+                <m_eObjectType>TEXTURE</m_eObjectType>
+                <m_ParamName text="BaseColor"/>
+            </Element>
+        </m_Values>
+    </m_CookParams>
+    <m_Version>
+        <major>3</major>
+        <minor>0</minor>
+        <build>196</build>
+        <revision>959</revision>
+    </m_Version>
+    <m_ClassName text="DecalMaterial"/>
+    <m_DataFiles/>
+    <m_Name text="Porcelain_Tower_Decal"/>
+    <m_Description text=""/>
+    <m_Tags>
+        <Element text="DecalMaterial"/>
+    </m_Tags>
+    <m_Groups/>
+</AssetObjects..MaterialInstance>

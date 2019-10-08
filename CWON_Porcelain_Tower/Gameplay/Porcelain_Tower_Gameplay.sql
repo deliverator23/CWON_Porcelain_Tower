@@ -1,0 +1,44 @@
+INSERT INTO Types (Type, Kind) VALUES ('BUILDING_PORCELAIN_TOWER', 'KIND_BUILDING');
+
+INSERT INTO Buildings (BuildingType, Name, Description, PrereqTech, Cost, AdvisorType, MaxWorldInstances, IsWonder, RequiresPlacement, Quote, AdjacentDistrict, Housing)
+VALUES ('BUILDING_PORCELAIN_TOWER', 'LOC_BUILDING_PORCELAIN_TOWER_NAME', 'LOC_BUILDING_PORCELAIN_TOWER_DESCRIPTION',
+  'TECH_BANKING', 920, 'ADVISOR_CULTURE', '1', 1, 1, 'LOC_BUILDING_PORCELAIN_TOWER_QUOTE', 'DISTRICT_CITY_CENTER', 3);
+
+
+INSERT INTO Building_YieldChanges (BuildingType, YieldType, YieldChange) VALUES  ('BUILDING_PORCELAIN_TOWER', 'YIELD_SCIENCE', 3);
+
+INSERT INTO Building_GreatPersonPoints (BuildingType, GreatPersonClassType, PointsPerTurn)
+VALUES ('BUILDING_PORCELAIN_TOWER', 'GREAT_PERSON_CLASS_SCIENTIST', '2');
+
+
+-- Grants a free copy of the Porcelain Luxury Resource (not tradeable) which provides +6 Amenities.
+INSERT INTO Types
+(Type, Kind)
+VALUES ('RESOURCE_PORCELAIN', 'KIND_RESOURCE');
+
+INSERT INTO Resources
+(ResourceType, Name, ResourceClassType, Happiness, Frequency)
+VALUES ('RESOURCE_PORCELAIN', 'LOC_RESOURCE_PORCELAIN_NAME', 'RESOURCECLASS_LUXURY', 6, 0);
+
+INSERT INTO Modifiers
+(ModifierId, ModifierType, SubjectRequirementSetId)
+VALUES ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'MODIFIER_PLAYER_ADJUST_FREE_RESOURCE_IMPORT', 'REQSET_PLAYER_HAS_PORCELAIN_TOWER');
+
+INSERT INTO ModifierArguments
+(ModifierId, Name, Value)
+VALUES ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'ResourceType', 'RESOURCE_PORCELAIN'),
+  ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'Amount', 1);
+
+INSERT INTO Requirements (RequirementId, RequirementType)
+VALUES ('REQ_PLAYER_HAS_PORCELAIN_TOWER', 'REQUIREMENT_PLAYER_HAS_BUILDING');
+
+INSERT INTO RequirementArguments (RequirementId, Name, Value)
+VALUES ('REQ_PLAYER_HAS_PORCELAIN_TOWER', 'BuildingType', 'BUILDING_PORCELAIN_TOWER');
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType)
+VALUES ('REQSET_PLAYER_HAS_PORCELAIN_TOWER', 'REQUIREMENTSET_TEST_ALL');
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId)
+VALUES ('REQSET_PLAYER_HAS_PORCELAIN_TOWER', 'REQ_PLAYER_HAS_PORCELAIN_TOWER');
+
+INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_PORCELAIN_TOWER', 'MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE');
