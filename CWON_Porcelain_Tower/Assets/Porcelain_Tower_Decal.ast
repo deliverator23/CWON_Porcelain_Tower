@@ -83,42 +83,6 @@
 						<m_MeshName text="Decal_Plane"/>
 						<m_StateName text="Pillaged"/>
 					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="Porcelain_Tower_Decal"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Decal_Plane"/>
-						<m_MeshName text="Decal_Plane"/>
-						<m_StateName text="Unbuilt"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="Porcelain_Tower_Decal"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Decal_Plane"/>
-						<m_MeshName text="Decal_Plane"/>
-						<m_StateName text="Construction"/>
-					</Element>
 				</m_GroupStates>
 			</Element>
 		</m_ModelInstances>
