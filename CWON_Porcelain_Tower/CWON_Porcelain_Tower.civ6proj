@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Porcelain Tower (World Wonder)</Name>
+    <Guid>89a948de-5e48-4608-81a4-c52bd68bc4eb</Guid>
+    <ProjectGuid>7488a450-06f2-4106-ba1d-4ecc93da1188</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Porcelain Tower (World Wonder)</Teaser>
+    <Description>Porcelain Tower (World Wonder)</Description>
+    <Authors>Del</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>CWON_Porcelain_Tower</AssemblyName>
+    <RootNamespace>CWON_Porcelain_Tower</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="CWON_Porcelain_Tower.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
