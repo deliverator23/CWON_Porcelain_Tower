@@ -5,7 +5,7 @@
             <Text>Porcelain Tower</Text>
         </Row>
         <Row Tag="LOC_BUILDING_PORCELAIN_TOWER_DESCRIPTION">
-            <Text>Grants a free copy of the Porcelain Luxury Resource (not tradeable) which provides +6 Amenities.</Text>
+            <Text>Grants two copies of the Porcelain Luxury Resource which provides +6 Amenities.</Text>
         </Row>
         <Row Tag="LOC_BUILDING_PORCELAIN_TOWER_QUOTE">
             <Text>"In the middle of the Plain stands a high Steeple or Tower made of Porcelane, which far exceed all other Workmanship of the Chinese in cost and skill; by which the Chinese have declared to the World the rare Ingenuity of their Artists in former Ages." - Johannes Nieuhof</Text>
@@ -17,6 +17,15 @@
             <Text>The exterior of the building was built of white porcelain bricks that shone like mirrors in the sunlight. At night the tower was hung from top to bottom with over 100 lamps. The tower stood in the center of Nanjing until 1854 when it was destroyed during the Taiping Rebellion.</Text>
         </Row>
         <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_PORCELAIN_TOWER_CHAPTER_HISTORY_PARA_3">
+            <Text></Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PORCELAIN_CHAPTER_HISTORY_PARA_1">
+            <Text>Porcelain something something.</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PORCELAIN_CHAPTER_HISTORY_PARA_2">
+            <Text></Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PORCELAIN_CHAPTER_HISTORY_PARA_3">
             <Text></Text>
         </Row>
     </EnglishText>

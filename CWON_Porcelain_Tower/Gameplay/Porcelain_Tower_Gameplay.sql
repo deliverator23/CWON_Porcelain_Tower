@@ -11,7 +11,7 @@ INSERT INTO Building_GreatPersonPoints (BuildingType, GreatPersonClassType, Poin
 VALUES ('BUILDING_PORCELAIN_TOWER', 'GREAT_PERSON_CLASS_SCIENTIST', '2');
 
 
--- Grants a free copy of the Porcelain Luxury Resource (not tradeable) which provides +6 Amenities.
+-- Grants two copies of the Porcelain Luxury Resource which provides +6 Amenities.
 INSERT INTO Types
 (Type, Kind)
 VALUES ('RESOURCE_PORCELAIN', 'KIND_RESOURCE');
@@ -27,7 +27,7 @@ VALUES ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'MODIFIER_PLAYER_ADJUST_FREE_
 INSERT INTO ModifierArguments
 (ModifierId, Name, Value)
 VALUES ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'ResourceType', 'RESOURCE_PORCELAIN'),
-  ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'Amount', 1);
+  ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'Amount', 2);
 
 INSERT INTO Requirements (RequirementId, RequirementType)
 VALUES ('REQ_PLAYER_HAS_PORCELAIN_TOWER', 'REQUIREMENT_PLAYER_HAS_BUILDING');
