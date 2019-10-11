@@ -2,8 +2,12 @@ INSERT INTO Types (Type, Kind) VALUES ('BUILDING_PORCELAIN_TOWER', 'KIND_BUILDIN
 
 INSERT INTO Buildings (BuildingType, Name, Description, PrereqTech, Cost, AdvisorType, MaxWorldInstances, IsWonder, RequiresPlacement, Quote, AdjacentDistrict, Housing)
 VALUES ('BUILDING_PORCELAIN_TOWER', 'LOC_BUILDING_PORCELAIN_TOWER_NAME', 'LOC_BUILDING_PORCELAIN_TOWER_DESCRIPTION',
-  'TECH_BANKING', 920, 'ADVISOR_CULTURE', '1', 1, 1, 'LOC_BUILDING_PORCELAIN_TOWER_QUOTE', 'DISTRICT_CITY_CENTER', 3);
+  'TECH_GUNPOWDER', 920, 'ADVISOR_TECHNOLOGY', '1', 1, 1, 'LOC_BUILDING_PORCELAIN_TOWER_QUOTE', 'DISTRICT_CITY_CENTER', 3);
 
+INSERT INTO Building_ValidTerrains (BuildingType, TerrainType)
+VALUES ('BUILDING_LEANING_TOWER', 'TERRAIN_GRASS'),
+        ('BUILDING_LEANING_TOWER', 'TERRAIN_PLAINS'),
+        ('BUILDING_LEANING_TOWER', 'TERRAIN_TUNDRA');
 
 INSERT INTO Building_YieldChanges (BuildingType, YieldType, YieldChange) VALUES  ('BUILDING_PORCELAIN_TOWER', 'YIELD_SCIENCE', 3);
 
@@ -11,7 +15,7 @@ INSERT INTO Building_GreatPersonPoints (BuildingType, GreatPersonClassType, Poin
 VALUES ('BUILDING_PORCELAIN_TOWER', 'GREAT_PERSON_CLASS_SCIENTIST', '2');
 
 
--- Grants two copies of the Porcelain Luxury Resource which provides +6 Amenities.
+-- Grants three copies of the Porcelain Luxury Resource which provides +6 Amenities.
 INSERT INTO Types
 (Type, Kind)
 VALUES ('RESOURCE_PORCELAIN', 'KIND_RESOURCE');
@@ -27,7 +31,7 @@ VALUES ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'MODIFIER_PLAYER_ADJUST_FREE_
 INSERT INTO ModifierArguments
 (ModifierId, Name, Value)
 VALUES ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'ResourceType', 'RESOURCE_PORCELAIN'),
-  ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'Amount', 2);
+  ('MODIFIER_CWON_PORCELAIN_IMPORT_RESOURCE', 'Amount', 3);
 
 INSERT INTO Requirements (RequirementId, RequirementType)
 VALUES ('REQ_PLAYER_HAS_PORCELAIN_TOWER', 'REQUIREMENT_PLAYER_HAS_BUILDING');

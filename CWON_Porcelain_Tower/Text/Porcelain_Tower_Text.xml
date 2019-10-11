@@ -5,7 +5,7 @@
             <Text>Porcelain Tower</Text>
         </Row>
         <Row Tag="LOC_BUILDING_PORCELAIN_TOWER_DESCRIPTION">
-            <Text>Grants two copies of the Porcelain Luxury Resource which provides +6 Amenities.</Text>
+            <Text>Grants three copies of the [ICON_RESOURCE_PORCELAIN] Porcelain Luxury Resource which provide +6 Amenities each. Must be built on a flat Grassland, Plains or Tundra tile.</Text>
         </Row>
         <Row Tag="LOC_BUILDING_PORCELAIN_TOWER_QUOTE">
             <Text>"In the middle of the Plain stands a high Steeple or Tower made of Porcelane, which far exceed all other Workmanship of the Chinese in cost and skill; by which the Chinese have declared to the World the rare Ingenuity of their Artists in former Ages." - Johannes Nieuhof</Text>
@@ -18,6 +18,9 @@
         </Row>
         <Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_PORCELAIN_TOWER_CHAPTER_HISTORY_PARA_3">
             <Text></Text>
+        </Row>
+        <Row Tag="LOC_RESOURCE_PORCELAIN_NAME">
+            <Text>Porcelain</Text>
         </Row>
         <Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PORCELAIN_CHAPTER_HISTORY_PARA_1">
             <Text>Porcelain is a ceramic material made by heating materials, generally including kaolin, in a kiln to temperatures between 1,200 and 1,400 °C (2,200 and 2,600 °F). The toughness, strength, and translucence of porcelain, relative to other types of pottery, arises mainly from vitrification and the formation of the mineral mullite within the body at these high temperatures. Though definitions vary, porcelain can be divided into three main categories: hard-paste, soft-paste and bone china. The category that an object belongs to depends on the composition of the paste used to make the body of the porcelain object and the firing conditions.</Text>
