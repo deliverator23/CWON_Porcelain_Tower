@@ -86,13 +86,13 @@
                 </m_GroupStates>
             </Element>
             <Element>
-                <m_Name text="Armature"/>
+                <m_Name text="Porcelain_Tower_Death"/>
                 <m_GeoName text="porcelain_death"/>
                 <m_GroupStates>
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects..ObjectValue">
+                                <Element class="AssetObjects:ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower_Damage"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -104,13 +104,13 @@
                             </m_Values>
                         </m_Values>
                         <m_GroupName text="Porcelain_Tower_Damage"/>
-                        <m_MeshName text="Porcelain_TowerPt1"/>
+                        <m_MeshName text="Porcelain_Tower_DeathMesh"/>
                         <m_StateName text="Unworked"/>
                     </Element>
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects..ObjectValue">
+                                <Element class="AssetObjects:ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower_Damage"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -122,13 +122,13 @@
                             </m_Values>
                         </m_Values>
                         <m_GroupName text="Porcelain_Tower_Damage"/>
-                        <m_MeshName text="Porcelain_TowerPt1"/>
+                        <m_MeshName text="Porcelain_Tower_DeathMesh"/>
                         <m_StateName text="Worked"/>
                     </Element>
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects..ObjectValue">
+                                <Element class="AssetObjects:ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower_Damage"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -140,7 +140,7 @@
                             </m_Values>
                         </m_Values>
                         <m_GroupName text="Porcelain_Tower_Damage"/>
-                        <m_MeshName text="Porcelain_TowerPt1"/>
+                        <m_MeshName text="Porcelain_Tower_DeathMesh"/>
                         <m_StateName text="Pillaged"/>
                     </Element>
                 </m_GroupStates>

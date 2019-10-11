@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects..GeometryInstance>
+<AssetObjects:GeometryInstance>
 <m_CookParams>
 <m_Values/>
 </m_CookParams>
@@ -11,7 +11,7 @@
 </m_Version>
 <m_Meshes>
 <Element>
-<m_Name text="Porcelain_TowerPt1"/>
+<m_Name text="Porcelain_Tower_DeathMesh"/>
 <m_Groups>
 <Element>
 <m_Name text="Porcelain_Tower_Damage"/>
@@ -25,10 +25,10 @@
 </Element>
 </m_Meshes>
 <m_Bones>
-<Element text="Armature"/>
+<Element text="Porcelain_Tower_Death"/>
 <Element text="Bone"/>
 </m_Bones>
-<m_ModelName text="Armature"/>
+<m_ModelName text="Porcelain_Tower_Death"/>
 <m_SourceFilePath text=""/>
 <m_SourceObjectName text=""/>
 <m_ImportedTime>0</m_ImportedTime>
@@ -46,4 +46,4 @@
 <Element text="LandmarkModel"/>
 </m_Tags>
 <m_Groups/>
-</AssetObjects..GeometryInstance>
+</AssetObjects:GeometryInstance>

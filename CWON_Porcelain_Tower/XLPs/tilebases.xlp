@@ -14,8 +14,16 @@
             <m_ObjectName text="Porcelain_Tower"/>
         </Element>
         <Element>
+            <m_EntryID text="Porcelain_Tower_Decal"/>
+            <m_ObjectName text="Porcelain_Tower_Decal"/>
+        </Element>
+        <Element>
             <m_EntryID text="Porcelain_Tower_HB"/>
             <m_ObjectName text="Porcelain_Tower_HB"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Tree_Pink_Sm"/>
+            <m_ObjectName text="Tree_Pink_Sm"/>
         </Element>
     </m_Entries>
     <m_AllowedPlatforms>
