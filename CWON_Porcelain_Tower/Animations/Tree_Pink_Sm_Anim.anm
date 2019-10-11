@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..AnimationInstance>
+	<m_CookParams>
+		<m_Values/>
+	</m_CookParams>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_fDuration>5.000000</m_fDuration>
+	<m_SourceFilePath text="//civ6/main/ArtDev/Buildings/Wonders/Kotoku_Buddha/02_Model/won_kotoku.max"/>
+	<m_SourceObjectName text="Tree_Pink_Sm_Anim"/>
+	<m_ImportedTime>0</m_ImportedTime>
+	<m_ExportedTime>3995581787</m_ExportedTime>
+	<m_ClassName text="Landmark"/>
+	<m_DataFiles>
+		<Element>
+			<m_ID text="GR2"/>
+			<m_RelativePath text="Tree_Pink_Sm_Anim.fgx"/>
+		</Element>
+	</m_DataFiles>
+	<m_Name text="Tree_Pink_Sm_Anim"/>
+	<m_Description text=""/>
+	<m_Tags>
+		<Element text="Landmark"/>
+	</m_Tags>
+	<m_Groups/>
+</AssetObjects..AnimationInstance>
+
