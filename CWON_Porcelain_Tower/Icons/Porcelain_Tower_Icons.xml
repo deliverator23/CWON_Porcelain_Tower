@@ -15,7 +15,7 @@
 
 		<Row Name="ICON_ATLAS_RESOURCE_PORCELAIN_FOW" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="RESOURCE_PORCELAIN_64.DDS"/>
 
-		<Row Name="ICON_ATLAS_RESOURCE_PORCELAIN_FONTICON" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="RESOURCE_PORCELAIN_22.DDS"/>
+		<Row Name="ICON_ATLAS_RESOURCE_PORCELAIN_FONTICON" IconSize="22" Baseline="6" IconsPerRow="1" IconsPerColumn="1" Filename="RESOURCE_PORCELAIN_22.DDS"/>
 	</IconTextureAtlases>
     <IconDefinitions>
         <Row Name="ICON_BUILDING_PORCELAIN_TOWER" Atlas="ICON_ATLAS_PORCELAIN_TOWER" Index="0"/>
