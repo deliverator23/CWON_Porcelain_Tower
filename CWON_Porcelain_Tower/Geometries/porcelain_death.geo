@@ -16,12 +16,12 @@
 <Element>
 <m_Name text="Porcelain_Tower_Damage"/>
 <m_nFirstPrim>0</m_nFirstPrim>
-<m_nPrims>1882</m_nPrims>
+<m_nPrims>3764</m_nPrims>
 </Element>
 </m_Groups>
 <m_nBoundBoneCount>1</m_nBoundBoneCount>
-<m_nPrimitiveCount>1882</m_nPrimitiveCount>
-<m_nVertexCount>5646</m_nVertexCount>
+<m_nPrimitiveCount>3764</m_nPrimitiveCount>
+<m_nVertexCount>11292</m_nVertexCount>
 </Element>
 </m_Meshes>
 <m_Bones>
