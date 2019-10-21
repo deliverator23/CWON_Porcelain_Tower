@@ -16,12 +16,12 @@
 <Element>
 <m_Name text="Porcelain_TowerPt1"/>
 <m_nFirstPrim>0</m_nFirstPrim>
-<m_nPrims>1500</m_nPrims>
+<m_nPrims>1410</m_nPrims>
 </Element>
 </m_Groups>
 <m_nBoundBoneCount>1</m_nBoundBoneCount>
-<m_nPrimitiveCount>1500</m_nPrimitiveCount>
-<m_nVertexCount>4500</m_nVertexCount>
+<m_nPrimitiveCount>1410</m_nPrimitiveCount>
+<m_nVertexCount>4230</m_nVertexCount>
 </Element>
 <Element>
 <m_Name text="Porcelain_TowerPt2"/>
