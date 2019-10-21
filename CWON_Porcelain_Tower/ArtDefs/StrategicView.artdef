@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::ArtDefSet>
+<AssetObjects..ArtDefSet>
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
@@ -394,7 +394,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -402,7 +402,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -410,15 +410,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -440,7 +440,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -448,7 +448,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -456,15 +456,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -486,7 +486,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -494,7 +494,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -502,15 +502,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -532,7 +532,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -540,7 +540,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -548,15 +548,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -578,7 +578,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -586,7 +586,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -594,15 +594,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -624,7 +624,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -632,7 +632,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -640,15 +640,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -670,7 +670,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -678,7 +678,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -686,15 +686,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -716,7 +716,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PositionSets"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -724,7 +724,7 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PositionSet"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="PlacementRules"/>
 							<m_ArtDefPath text="StrategicView.artdef"/>
@@ -732,15 +732,15 @@
 							<m_TemplateName text="StrategicView"/>
 							<m_ParamName text="PlacementRule"/>
 						</Element>
-						<Element class="AssetObjects:BoolValue">
+						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
 							<m_ParamName text="Render"/>
 						</Element>
-						<Element class="AssetObjects:IntValue">
+						<Element class="AssetObjects..IntValue">
 							<m_nValue>1</m_nValue>
 							<m_ParamName text="TileCount"/>
 						</Element>
-						<Element class="AssetObjects:ArtDefReferenceValue">
+						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text=""/>
 							<m_RootCollectionName text="BuildingChains"/>
 							<m_ArtDefPath text=""/>
@@ -801,5 +801,5 @@
 			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 		</Element>
 	</m_RootCollections>
-</AssetObjects::ArtDefSet>
+</AssetObjects..ArtDefSet>
 

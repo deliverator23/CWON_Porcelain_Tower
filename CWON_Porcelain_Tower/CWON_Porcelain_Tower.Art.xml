@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::GameArtSpecification>
+<AssetObjects..GameArtSpecification>
 	<id>
 		<name text="CWON_Porcelain_Tower"/>
 		<id text="89a948de-5e48-4608-81a4-c52bd68bc4eb"/>
@@ -612,4 +612,4 @@
 			<id text="725760e3-7fc0-4be7-abf1-17bc756d5436"/>
 		</Element>
 	</requiredGameArtIDs>
-</AssetObjects::GameArtSpecification>
+</AssetObjects..GameArtSpecification>

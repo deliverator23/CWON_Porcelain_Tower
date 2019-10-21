@@ -32,7 +32,7 @@
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
+                                <Element class="AssetObjects..ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -50,7 +50,7 @@
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
+                                <Element class="AssetObjects..ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -68,7 +68,7 @@
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
+                                <Element class="AssetObjects..ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -86,43 +86,7 @@
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="Porcelain_Tower"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="Porcelain_TowerPt1"/>
-                        <m_MeshName text="Porcelain_TowerPt1"/>
-                        <m_StateName text="Unbuilt"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="Porcelain_Tower"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="Porcelain_TowerPt1"/>
-                        <m_MeshName text="Porcelain_TowerPt1"/>
-                        <m_StateName text="Construction"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
+                                <Element class="AssetObjects..ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -140,7 +104,7 @@
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
+                                <Element class="AssetObjects..ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -158,7 +122,7 @@
                     <Element>
                         <m_Values>
                             <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
+                                <Element class="AssetObjects..ObjectValue">
                                     <m_ObjectName text="Porcelain_Tower"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -172,42 +136,6 @@
                         <m_GroupName text="Porcelain_TowerPt2"/>
                         <m_MeshName text="Porcelain_TowerPt2"/>
                         <m_StateName text="Pillaged"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="Porcelain_Tower"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="Porcelain_TowerPt2"/>
-                        <m_MeshName text="Porcelain_TowerPt2"/>
-                        <m_StateName text="Unbuilt"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="Porcelain_Tower"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="Porcelain_TowerPt2"/>
-                        <m_MeshName text="Porcelain_TowerPt2"/>
-                        <m_StateName text="Construction"/>
                     </Element>
                 </m_GroupStates>
             </Element>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects:GeometryInstance>
+<AssetObjects..GeometryInstance>
     <m_CookParams>
         <m_Values/>
     </m_CookParams>
@@ -48,4 +48,4 @@
         <Element text="WonderMovieModel"/>
     </m_Tags>
     <m_Groups/>
-</AssetObjects:GeometryInstance>
+</AssetObjects..GeometryInstance>
